@@ -1,0 +1,16 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+body {
+    color: #66FCF1;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    height: auto;
+  }
